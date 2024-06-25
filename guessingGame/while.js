@@ -4,7 +4,7 @@
 // While loop Guessing Game
 
 let randomNum = Math.floor(Math.random() * 10) + 1;
-console.log(randomNum);
+//console.log(randomNum);
 
 let messageh1 = document.querySelector("h1");
 let messageh2 = document.querySelector("h2");
